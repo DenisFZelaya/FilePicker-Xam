@@ -1,0 +1,14 @@
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\FilePicker.AssemblyInfoInputs.cache
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\FilePicker.AssemblyInfo.cs
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\FilePicker.csproj.CoreCompileInputs.cache
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\bin\Debug\netstandard2.0\FilePicker.deps.json
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\bin\Debug\netstandard2.0\FilePicker.dll
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\bin\Debug\netstandard2.0\ref\FilePicker.dll
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\bin\Debug\netstandard2.0\FilePicker.pdb
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\FilePicker.dll
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\ref\FilePicker.dll
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\FilePicker.pdb
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\FilePicker.csproj.AssemblyReference.cache

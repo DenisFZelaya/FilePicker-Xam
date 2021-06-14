@@ -1,0 +1,6 @@
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\FilePickerXam.csproj.AssemblyReference.cache
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\FilePickerXam.AssemblyInfoInputs.cache
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\FilePickerXam.AssemblyInfo.cs
+C:\Users\dzelaya\source\repos\FilePicker\FilePicker\FilePicker\obj\Debug\netstandard2.0\FilePickerXam.csproj.CoreCompileInputs.cache
